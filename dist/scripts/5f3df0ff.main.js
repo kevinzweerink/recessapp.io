@@ -1,5 +1,5 @@
 $(document).ready(function() {
-	var phrases = ["Your afternoon called. It wants itself back.","Lunchtime! Shut down and refuel. With a salad, wink wink.", "Late night, huh? Maybe time to shut down.", "Your computer is sucking down energy, why don't you do the same and go for a run?", "Bamboo grows 6 inches per hour. What did you do for the last hour?", "Remember, your paying cash money for every second you're using this computer", "Aaaaaand stop. Pencils down."];
+	var phrases = ["Your afternoon called. It wants itself back.","Lunchtime! Shut down and refuel. With a salad, wink wink.", "Late night, huh? Maybe time to shut down.", "Your computer is sucking down energy, why don't you do the same and go for a run?", "Bamboo grows 6 inches per hour. What did you do for the last hour?", "Remember, you're paying cash money for every second you're using this computer", "Aaaaaand stop. Pencils down."];
 	var backgrounds = ["blue", "green", "yellow"];
 
 	var text = $(".banner-text");
