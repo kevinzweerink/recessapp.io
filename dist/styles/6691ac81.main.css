@@ -308,7 +308,7 @@ footer a:hover {
 }
 
 .faq {
-	font-size: 1em;
+	font-size: .65em;
 }
 
 .q {
@@ -317,6 +317,7 @@ footer a:hover {
 
 p.q p.a {
 	margin-bottom: 1em;
+	margin-top: 1em;
 }
 
 p.a {
