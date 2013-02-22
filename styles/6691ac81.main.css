@@ -105,6 +105,7 @@ header {
 header h1 {
 	position:relative;
 	margin-bottom:.5em;
+	font-family: "icomoon";
 }
 
 header h1:hover .banner {
