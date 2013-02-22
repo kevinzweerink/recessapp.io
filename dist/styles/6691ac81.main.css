@@ -310,6 +310,10 @@ footer a:hover {
 	padding-bottom:1em;
 }
 
+.blog.faq-blog .inner {
+	padding-top: 0;
+}
+
 .faq {
 	font-size: .65em;
 }
