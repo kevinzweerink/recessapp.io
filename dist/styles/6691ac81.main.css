@@ -315,7 +315,7 @@ footer a:hover {
 	font-style: italic;
 }
 
-p.q p.a {
+p.q, p.a {
 	margin-bottom: 1em;
 	margin-top: 1em;
 }
